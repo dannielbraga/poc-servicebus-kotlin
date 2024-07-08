@@ -1,0 +1,23 @@
+{
+  "nsu": "9000010",
+  "authorizationCode": "12",
+  "amount": 10,
+  "transactionDate": "2024-06-26T19:00:29.458Z",
+  "paymentGatewayId": 6,
+  "saleStatusId": 2,
+  "brandId": 1,
+  "acquirerId": 1013,
+  "saleTypeId": 1,
+  "serialNumber": "6P541639",
+  "NsuTerminal": "6P541639",
+  "logicalNumberId": "GC013176",
+  "installmentQuantity": 1,
+  "plataformTypeId": "018DEBE4-06C1-4611-9CA1-EC27A2E03CF6",
+  "creditCardPayment": {
+    "cardHolder": "string",
+    "expirantionDate": "2024-06-24",
+    "bin": "1234",
+    "number": "1234",
+    "last4": "1234"
+  }
+}
